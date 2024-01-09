@@ -1,0 +1,16 @@
+{
+    "name": "tobaojo/workopia",
+    "description": "Job listing application",
+    "authors": [
+        {
+            "name": "toba",
+            "email": "info@email.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "Framework/",
+            "App\\": "App/"
+        }
+    }
+}
